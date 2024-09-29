@@ -1,13 +1,7 @@
 <h1 align="center">Hola, Soy Franco Ponce</h1>
-<h3 align="center">Back-End dev y estudiante de sistemas</h3>
+<h3 align="center">Estudiante de sistemas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=francoponce14&label=Profile%20views&color=0e75b6&style=flat" alt="francoponce14" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/FrancoPonce14](https://github.com/FrancoPonce14)
-
-- 💬 Ask me about **java, spring and everything related to backend programming**
-
-- 📫 How to reach me **francoponce20@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
